@@ -1,16 +1,52 @@
 ### Hi there 👋
+I'm Shamik and I enjoy building solutions to problems, mostly through programming (and occasionally with WD-40). I work as a Lead Data Scientist building machine learning applications for detecting and anonymizing PII in data breaches and am a part-time contributor to the [BigScience Workshop](https://github.com/bigscience-workshop) and the [BigBIO](https://github.com/bigscience-workshop/biomedical) efforts from [🤗](https://huggingface.co/). I'm also working with a collection of data scientists, software developers and lawyers to establish an open standard for PII protection that can be used across the globe. You can follow our efforts [here](https://privacyprotection.substack.com/). I also like to cook 👨‍🍳
 
-<!--
-**shamikbose/shamikbose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+├── Interests
+│   ├── Natural Language Processing
+│   ├── Explainable Machine Learning
+│   ├── AI Ethics
+│   ├── System Design
+│   └── PII Anonymization
+├── Occupations
+│   ├── Software Engineer
+│   ├── Graduate Research Assistant
+│   ├── PhD Candidate
+│   └── Lead Data Scientist
+├── Locations
+│   ├── Kolkata, India
+│   ├── Boston, MA, USA
+│   └── Tallahassee, FL, USA
+└── Book Suggestions
+    ├── Fiction
+    │   ├── The Three Body Problem - Cixin Liu
+    │   ├── All the Light we cannot see - Anthony Doerr
+    │   └── Purple Hibiscus - Chimamanda Ngozi Adichie
+    ├── Non-Fiction
+    │   ├── Algorithms of Oppression - Safiya Umoji Noble
+    │   ├── Braiding Sweetgrass - Robin Wall Kimmerer
+    │   └── Weapons of Math Destruction - Cathy O. Neill
+    └── Cookbooks
+        ├── The Food Lab - J. Kenji Lopez-Alt
+        ├── Mi Cocina - Rick Martinez
+        └── Dessert Person - Claire Saffitz
+```
+<details>
+  <summary>Projects</summary>
+  
+  1. [Scientific Title Generator](https://huggingface.co/spaces/shamikbose89/title-generator-from-abstract)
+  2. [BigBIO dataloaders](https://github.com/pulls?user=bigscience-workshop&q=is%3Apr+author%3Ashamikbose+archived%3Afalse&user=bigscience-workshop)
+  3. [MIT 6.006 Solution Notebooks](https://github.com/shamikbose/MIT6.006)
+  
+</details>
+<details>
+  
+  <summary>Publications</summary>
+  
+  1. [Explaining AI for Malware Detection: Analysis of Mechanisms of MalConv](https://ieeexplore.ieee.org/abstract/document/9207322)
+  2. [PhD Thesis: Towards Explainability in Machine Learning for Malware Detection](https://diginole.lib.fsu.edu/islandora/object/fsu:776810/datastream/PDF/view)
+  3. [Static Malware Modeling and Detection using Topic Models](https://www.ieee-security.org/TC/SP2016/poster-abstracts/55-poster_abstract.pdf)
+  
+</details>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+P.S. The tree was built using [Rich](https://github.com/Textualize/rich)
