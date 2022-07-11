@@ -11,7 +11,6 @@ I'm Shamik and I enjoy building solutions to problems, mostly through programmin
 ├── Occupations
 │   ├── Software Engineer
 │   ├── Graduate Research Assistant
-│   ├── PhD Candidate
 │   └── Lead Data Scientist
 ├── Locations
 │   ├── Kolkata, India
