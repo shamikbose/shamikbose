@@ -25,6 +25,7 @@ I'm Shamik and I enjoy building solutions to problems, mostly through programmin
     │   ├── Algorithms of Oppression - Safiya Umoji Noble
     │   ├── Braiding Sweetgrass - Robin Wall Kimmerer
     |   ├── Chaos Machine - Max Fisher
+    |   ├── Viral Justice - Ruha Benjamin
     │   └── Weapons of Math Destruction - Cathy O. Neill
     └── Cookbooks
         ├── The Food Lab - J. Kenji Lopez-Alt
