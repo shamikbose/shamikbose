@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Shamik and I enjoy building solutions to problems, mostly through programming (and occasionally with WD-40). I work as a Lead Data Scientist building machine learning applications for detecting and anonymizing PII and PHI in data breaches. I am also a part-time contributor to the [BigScience Workshop](https://github.com/bigscience-workshop) and the [BigBIO](https://github.com/bigscience-workshop/biomedical) efforts from [🤗](https://huggingface.co/). In addition, I am working with [PIISA](https://github.com/piisa), a collection of data scientists, software developers and lawyers to establish an open standard for PII protection that can be used across the globe. You can follow our efforts [here](https://privacyprotection.substack.com/). I also like to cook 👨‍🍳
+I'm Shamik and I enjoy building solutions to problems, mostly through programming (and occasionally with WD-40). I work as a Lead Data Scientist building machine learning applications for detecting and anonymizing PII and PHI in data breaches. I am also a part-time contributor to the [BigScience Workshop](https://github.com/bigscience-workshop), the [BigBIO](https://github.com/bigscience-workshop/biomedical) effort and the [BigCode Project] (https://github.com/bigcode-project) from [🤗](https://huggingface.co/). In addition, I am working with [PIISA](https://github.com/piisa), a collection of data scientists, software developers and lawyers to establish an open standard for PII protection that can be used across the globe. You can follow our efforts [here](https://privacyprotection.substack.com/). I also like to cook 👨‍🍳
 
 ```
 ├── Interests
@@ -48,6 +48,7 @@ I'm Shamik and I enjoy building solutions to problems, mostly through programmin
   2. [PhD Thesis: Towards Explainability in Machine Learning for Malware Detection](https://diginole.lib.fsu.edu/islandora/object/fsu:776810/datastream/PDF/view)
   3. [Static Malware Modeling and Detection using Topic Models](https://www.ieee-security.org/TC/SP2016/poster-abstracts/55-poster_abstract.pdf)
   4. [BigBIO: A Framework for Data-Centric Biomedical Natural Language Processing](https://arxiv.org/abs/2206.15076)
+  5. [The bigscience roots corpus: A 1.6 tb composite multilingual dataset](https://proceedings.neurips.cc/paper_files/paper/2022/file/ce9e92e3de2372a4b93353eb7f3dc0bd-Paper-Datasets_and_Benchmarks.pdf)
   
 </details>
 
