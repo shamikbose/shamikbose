@@ -11,11 +11,13 @@ I'm Shamik and I enjoy building solutions to problems, mostly through programmin
 ├── Occupations
 │   ├── Software Engineer
 │   ├── Graduate Research Assistant
-│   └── Lead Data Scientist
+│   ├── Lead Data Scientist
+│   └── Senior Researcher
 ├── Locations
 │   ├── Kolkata, India
 │   ├── Boston, MA, USA
-│   └── Tallahassee, FL, USA
+│   ├── Tallahassee, FL, USA
+│   └── Leeds, England
 └── Book Suggestions
     ├── Fiction
     │   ├── The Three Body Problem - Cixin Liu
